@@ -1,7 +1,9 @@
 # kubernetes-minikube
+# screenshot get url
+<img width="959" alt="pd_tp_2" src="https://github.com/DAFJPVF/tp-image/assets/165999177/2833e3c1-25c6-4de6-b2c3-821282d79fe6">
+# screenshot resultat après deployment
+<img width="700" alt="pd_tp_3" src="https://github.com/DAFJPVF/tp-image/assets/165999177/f16561a4-1772-4cf4-906f-542ec6a101b2">
 
-Minikube is a tool that lets you run Kubernetes locally. 
-minikube runs a single-node Kubernetes cluster on your personal computer (including Windows, macOS and Linux PCs) so that you can try out Kubernetes, or for daily development work.
 
 ## Docker installation
 
